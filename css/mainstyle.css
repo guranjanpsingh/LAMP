@@ -1,5 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
+
 .dropdownSignInForm {
     width: 300px !important;
 }
+
+.modal-content {
+	color: #333;
+}
+
